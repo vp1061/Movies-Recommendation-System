@@ -1,0 +1,27 @@
+budget -no
+genres 
+homepage -no
+id 
+keywords
+orginal language -no
+original title -no
+overview
+popularity -no
+production_company -no
+countries_countries -no
+release_date -no 
+revenue -no
+runtime -no
+spoken_languages -no
+status -no
+tagline -no
+title 
+vote_average -no
+vote_count -no
+movie_id -no
+cast
+crew
+
+
+
+#movie-id|title|tags(overview+genre+cast+crew+keywords) 
